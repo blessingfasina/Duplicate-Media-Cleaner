@@ -1,0 +1,14 @@
+{
+    "name": "blessing-fasina/duplicate-media-cleaner",
+    "description": "A WordPress plugin to detect and delete duplicate media files.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.2",
+        "composer/installers": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DMC\\": "includes/"
+        }
+    }
+}
