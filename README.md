@@ -1,4 +1,5 @@
 **Duplicate Media Cleaner - WordPress Plugin**
+
 Contributors: Blessing Fasina
 
 **_Installation_**
