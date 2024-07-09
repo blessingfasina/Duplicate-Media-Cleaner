@@ -1,10 +1,5 @@
 **Duplicate Media Cleaner - WordPress Plugin**
-**Contributors: Blessing Fasina
-Tags: media, duplicate, cleaner
-Requires at least: 5.0
-Tested up to: 5.8
-Requires PHP: 7.2
-Stable tag: 1.0**
+Contributors: Blessing Fasina
 
 **_Installation_**
 1. Upload the plugin files to the `/wp-content/plugins/duplicate-media-cleaner` directory, or install the plugin through the WordPress plugins screen directly.
